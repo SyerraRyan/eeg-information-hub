@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   Open terminal\
   cd to what folder you want the project in\
   Run git clone https://github.com/SyerraRyan/eeg-information-hub.git
-  \Then open the project in your IDE
 
 ## Available Scripts
 
